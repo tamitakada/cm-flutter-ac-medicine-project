@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969788980087",
+    "project_id": "medicine-b7e88",
+    "storage_bucket": "medicine-b7e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969788980087:android:9775efd816ea0c6a7dff72",
+        "android_client_info": {
+          "package_name": "com.example.medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD336VKax7pTd4cjt7Oa6vc6ejKTFsKBsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969788980087:android:139a024c6097242a7dff72",
+        "android_client_info": {
+          "package_name": "com.medication_app.medication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD336VKax7pTd4cjt7Oa6vc6ejKTFsKBsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
